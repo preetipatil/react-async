@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Page Test should renders News correctly 1`] = `
+<News
+  news={Array []}
+/>
+`;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News Component should render News Items correctly 1`] = `
+<div
+  key="0"
+>
+  <NewsItem
+    article={
+      Object {
+        "author": "BBC News",
+        "description": "Typhoon Hagibis could be the worst to hit Japan since 1958 when more than 1,200 people died.",
+        "title": "Japan braced for biggest typhoon in decades",
+        "url": "http://www.bbc.co.uk/news/world-asia-50020108",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/78D2/production/_109203903_057241635.jpg",
+      }
+    }
+  />
+</div>
+`;
